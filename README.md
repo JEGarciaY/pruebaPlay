@@ -61,8 +61,8 @@ Antes de iniciar, asegúrate de tener instalado:
 - Frontend disponible en: **http://localhost:4200**  
 - Backend disponible en: **http://localhost:8080**
 
-## Script de Usuarios
-Para  crear los usuarios es necesario corre los scripts que se se encuentran en el archivo **creacion_usuarios.sql**
+## 🗄️ Script de Usuarios
+- Para  crear los usuarios es necesario corre los scripts que se se encuentran en el archivo **creacion_usuarios.sql**
 
 ### 🔑 Funcionalidades
 - **Crear producto:** Agregar nombre, stock, precio y descripción.  
